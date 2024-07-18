@@ -9,3 +9,8 @@ run:$(TARGET)
 	@echo "Iniciando o Programa com input numérico de: $(NUM)\n\n"
 	./$(TARGET) $(NUM)
 
+
+test1000:$(TARGET)
+	./$(TARGET) 1000
+
+

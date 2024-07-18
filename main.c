@@ -6,7 +6,7 @@
 #include <ctype.h>
 #include <sys/wait.h>
 
-#define BUFFER_SIZE 20
+#define BUFFER_SIZE 11
 
 // Função para verificar se um número é primo
 int is_prime(int number) {
